@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi, I'm [@mg](https://twitter.com/mg) 👋
+🚀 I'm a multi-time founder, 👦🏼 Nash’s dad, 🌽 Midwesterner, 👨🏼‍🎨 designer, 🎸 musician, ☕️ craft coffee and beer lover, and 👾 GIF enthusiast
 
-<!--
-**mg0716/mg0716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently building XMTP
+  - [xmtp.com](https://xmtp.com)
+  - [@XMTPdotcom](https://twitter.com/xmtp)
+- ⚡️ We're hiring!
+  - https://careers.xmtp.com
+- 📫 How to reach me:
+  - [@mg](https://twitter.com/mg)
+  - [hi.mg](https://hi..mg)
+  - [mattgalligan.com](https://mattgalligan.com)
