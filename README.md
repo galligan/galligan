@@ -1,6 +1,6 @@
 ### Hi, I'm [@mg](https://twitter.com/mg) 👋
-🚀 I'm a multi-time founder, 👦🏼 Nash’s dad, 🌽 Midwesterner, 👨🏼‍🎨 designer, 🎸 musician, ☕️ craft coffee and beer lover, and 👾 GIF enthusiast
 
+- 🚀 Multi-time founder, 👦🏼 dad, 🌽 Midwesterner, 👨🏼‍🎨 designer, 🎸 musician, 🍔 burger enthusiast, ☕️ craft coffee & beer lover
 - 🔭 I’m currently building XMTP
   - [xmtp.com](https://xmtp.com)
   - [@XMTPdotcom](https://twitter.com/xmtp)
