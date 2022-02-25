@@ -1,7 +1,7 @@
 ### Hi, I'm [@mg](https://twitter.com/mg) 👋
 
 - 🚀 Multi-time founder, 👦🏼 dad, 🌽 Midwesterner, 👨🏼‍🎨 designer, 🎸 musician, 🍔 burger enthusiast, ☕️ craft coffee & beer lover
-- 🔭 I’m currently building XMTP
+- 🔭 I’m currently building XMTP Labs
   - [xmtp.com](https://xmtp.com)
   - [@XMTP_](https://twitter.com/xmtp_)
 - ⚡️ We're hiring!
