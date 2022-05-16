@@ -1,4 +1,4 @@
-### Hi, I'm [@mg](https://twitter.com/mg) 👋
+### Hi, I'm Matt 👋
 
 - 🚀 Multi-time founder, 👦🏼 dad, 🌽 Midwesterner, 👨🏼‍🎨 designer, 🎸 musician, 🍔 burger enthusiast, ☕️ craft coffee & beer lover
 - 🔭 I’m currently building XMTP Labs
