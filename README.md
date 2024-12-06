@@ -1,13 +1,29 @@
-### Hi, I'm Matt 👋
+## Hi, I'm Matt 👋
 
-- 🚀 Multi-time founder, 👦🏼 dad, 🌽 Midwesterner, 👨🏼‍🎨 designer, 🎸 musician, 🍔 burger enthusiast, ☕️ craft coffee & beer lover
-- 🔭 I’m currently working on building secure web3 messaging with XMTP
-  - [xmtp.com](https://xmtp.org)
-  - [@XMTP_](https://twitter.com/xmtp_)
-  - We're hiring: <https://careers.xmtp.com>
+- 👉🏻 Me:
+  - 🚀 Multi-time startup founder
+  - 🚸 dad to four kiddos
+  - 🌽 Midwesterner
+  - 👨🏼‍🎨 designer
+  - 🎸 musician
+  - 🍔 burger enthusiast
+  - ☕️ craft coffee & beer lover
+  - 📝 list lister
+- ✨ Emerging tech explorer:
+  - 🧠 AI
+  - 🌐 web3
+  - 🔏 secure messaging and cryptography
+- 🧪 Hobbyist extraordinaire:
+  - 🏠 home automation
+  - 🛥️ 3d printing
+  - 📷 photography
+  - 🪵 woodworking
+- 🔭 I’m currently working on building secure, decentralized messaging with XMTP
+  - [xmtp.org](https://xmtp.org)
 - 📫 How to reach me:
-  - [@mg on Twitter](https://twitter.com/mg)
-  - [@mg on Farcaster](https://)
-  - [@galligan on Mastodon](https://mastodon.social/galligan)
-  - [@galligan on Lens](https://lenster.xyz/u/galligan)
+  - [Message galligan.eth via Converse](https://converse.xyz/dm/galligan.eth)
+  - [My personal blog/newsletter](https://mattgalligan.com)
+  - [@galligan.xyz on Bsky](https://bsky.app/profile/galligan.xyz)
+  - [@mg on Threads](https://threads.net/mg)
+  - [@mg on Farcaster](https://warpcast.com/mg)
   - [galligan.xyz](https://galligan.xyz)
